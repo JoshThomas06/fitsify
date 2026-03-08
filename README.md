@@ -163,3 +163,9 @@ The goal of Fitsify is to demonstrate how AI-powered computer vision and social 
 This project explores the intersection of fitness technology, machine learning, and social workout experiences.
 
 ---
+## Contributors
+
+Josh Thomas — Project concept, feature design, testing, documentation
+
+Navneshwar,Kesshav,Tharun Vel — Core implementation and Python development
+
